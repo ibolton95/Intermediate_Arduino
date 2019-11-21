@@ -3,6 +3,9 @@
 Made an LED blink, and then fade in and out repeatedly. Reflection: Coding the Serial Print to print out x's according to the brightness of the LED was hard at first but as I remembered how to create a Serial Print Line, I eventually correctly coded the Serial Print.
 ## helloLCD
 Wired up an LCD screen to print a message. Reflection: The first time I soldered the pins, I connected multiple pins. However, I melted the solder and tried again. The second time, I correctly soldered the pins.
+
+<img src="images/helloLCD fritzing_bb.png" width="75">
+
 ## LCD Backpack
 Attached an LCD Backpack to an LCD to reduce the number of wires required to print a message. Then, a button was added and the number of times the button was pressed was counted and displayed on the LCD screen. Reflection: The coding for the button was hard at first, but eventually (with some help) I correctly coded and wired the button.
 ## Photointerrupter
