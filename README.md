@@ -1,6 +1,9 @@
 # Intermediate_Arduino
 ## LED Blink Revisited
 Made an LED blink, and then fade in and out repeatedly. Reflection: Coding the Serial Print to print out x's according to the brightness of the LED was hard at first but as I remembered how to create a Serial Print Line, I eventually correctly coded the Serial Print.
+
+<img src="images/LED Blink Revisited fritzing_bb.png" width="75">
+
 ## helloLCD
 Wired up an LCD screen to print a message. Reflection: The first time I soldered the pins, I connected multiple pins. However, I melted the solder and tried again. The second time, I correctly soldered the pins.
 
