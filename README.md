@@ -16,6 +16,9 @@ Attached an LCD Backpack to an LCD to reduce the number of wires required to pri
 
 ## Photointerrupter
 Wired a photointerrupter that detected when something passed between its legs and turned on a LED, and then tracked how many times something passed thorugh the legs. Reflection: I had some trouble correclty soldering the wires at first, but I eventually soldered them correctly, and, after figuring out the wiring, got the circuit running.
+
+<img src="images/Photointerrupter fritzing_bb.png" width="75">
+
 ## Potentiometers
 Wired a potetniometer to control an LED and portray its values on an LCD screen. Reflection: Making the potentiometer display its numerical value on the LCD screen seemed complicated at first, but I figured it out. 
 ## Motor Control
