@@ -21,6 +21,9 @@ Wired a photointerrupter that detected when something passed between its legs an
 
 ## Potentiometers
 Wired a potetniometer to control an LED and portray its values on an LCD screen. Reflection: Making the potentiometer display its numerical value on the LCD screen seemed complicated at first, but I figured it out. 
+
+<img src="images/Potentiometers fritzing_bb.png" width="75">
+
 ## Motor Control
 Used a motor to control a potetniometer, along with a diode and transistor. Reflection: I originally placed the diode the wrong way, and multiple motors failed, so the circuit did not work. After replacing various parts multiple times, the circuit was corrected and ran.
 
