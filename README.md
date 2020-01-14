@@ -27,3 +27,4 @@ Wired a potetniometer to control an LED and portray its values on an LCD screen.
 ## Motor Control
 Used a motor to control a potetniometer, along with a diode and transistor. Reflection: I originally placed the diode the wrong way, and multiple motors failed, so the circuit did not work. After replacing various parts multiple times, the circuit was corrected and ran.
 
+<img src="images/Motor Control fritzing_bb.png" width="75">
